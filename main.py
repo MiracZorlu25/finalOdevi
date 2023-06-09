@@ -114,6 +114,7 @@ try:
     yeni_df = df[["Ad", "Soyad", "Yeni Maaş"]]
     print("Yeni DataFrame:")
     print(yeni_df)
+    print("deneme")
 
 except Exception as e:
         print("HATA", str(e))
