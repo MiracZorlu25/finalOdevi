@@ -115,6 +115,7 @@ try:
     print("Yeni DataFrame:")
     print(yeni_df)
     print("deneme")
+    print("deneme2")
 
 except Exception as e:
         print("HATA", str(e))
